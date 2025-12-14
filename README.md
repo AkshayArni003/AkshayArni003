@@ -1,6 +1,6 @@
 # Akshay R K
 
-### Senior Full Stack Engineer | Python · AWS · Event-Driven Systems · AI / RAG
+### Senior Full Stack Engineer | Python · AWS · Event-Driven Systems · AI / ML / Generative AI
 ## 👋 Hi there
 
 I’m **Akshay R K**, a Senior Full Stack Engineer at **Stellantis**, working on
